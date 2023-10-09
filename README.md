@@ -1,1 +1,1 @@
-Hey! I am Sharyat and I am currently a mechanical engineering student and I am interested in robotics. I have worked with multiple ground based robots and I am currently learning about aerial robotics and working with an amazing platform called a crazyflie. 
+Hey! I am Sharyat and I am currently a mechanical engineering student and I am interested in robotics. I have worked with multiple ground based robots and I am currently learning about aerial robotics and working with an amazing platform called crazyflie. 
